@@ -1,0 +1,6 @@
+{
+  "name": "Kitty Party Fun Games",
+  "description": "Interactive party gaming suite with 10 exciting mini-games, real-time sync, leaderboards, wheel spin, and host controls for friend gatherings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
